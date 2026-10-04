@@ -22,7 +22,7 @@ Management system a ski club runs in production instead of Excel: members and pa
 Multi-agent pipeline that extracts business terms from banking documents, maps them to a SKOS/OWL ontology enriched with FIBO and routes them to human review. REST API and MCP server, 700+ tests. Team project, technical lead.  
 `Python` `FastAPI` `React` `Claude API` `Ollama` `rdflib`
 
-**ArtGuesser** · [play it](https://artguesser.imunogames.com/)  
+**[ArtGuesser](https://artguesser.imunogames.com/)**
 Daily guessing game with 10 modes across movies, music, art and books. Puzzles are generated every night by a GitHub Actions pipeline using the Claude API and 8 external APIs.  
 `React` `Supabase` `Vercel` `GitHub Actions`
 
