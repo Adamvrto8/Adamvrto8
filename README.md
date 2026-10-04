@@ -14,7 +14,7 @@ Master's student in Data Analysis & AI at Prague University of Economics and Bus
 
 ## Selected work
 
-**ALPINE-SKI** ·  
+**[ALPINE-SKI](https://github.com/Adamvrto8/ALPINE-SKI)** 
 Management system a ski club runs in production instead of Excel: members and parent contacts, payment schedules with bank statement matching, attendance, equipment rental, confirmations. Roles enforced with row-level security.  
 `Next.js` `TypeScript` `Supabase` `PostgreSQL` `PWA`
 
