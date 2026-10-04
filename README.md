@@ -2,7 +2,7 @@
 
 AI & data engineer who ships full products: the pipeline or model, the API and database, and the interface people use every day.
 
-Master's student in Data Analysis & AI at Prague University of Economics and Business. Before that, a year in internal audit at UniCredit Bank.
+Master's student in Data Analysis & AI at Prague University of Economics and Business.
 
 ## What I build
 
